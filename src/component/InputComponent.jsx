@@ -36,7 +36,7 @@ function InputComponent(props) {
             value={name}
             type="text"/>
             <p> {name} </p>
-
+            
             Alamat:
             <input 
             style={{margin: '10px'}}
